@@ -1,0 +1,82 @@
+{"dictionary": {
+  "menu": {
+    "home" : "home",
+    "about" : "about",
+    "illustrations" : "illustrations",
+    "experience": "experience",
+    "contact" : "contact"
+  },
+  "bottomMenu" : {
+    "animation" : "animations",
+    "pictures": "images",
+    "books": "scriptwriting",
+    "copyright": ["made with", "by", "for a better web"]
+  },
+  "home":{
+    "subheader":"Graphic designer, Illustrator and 2d Animator",
+    "buttons": {
+      "button1": "Pictures",
+      "button2": "Experience"
+    }
+  },
+  "about": {
+    "description": "Born and raised in San Juan, Puerto Rico. Interested in visual arts, animation, and film culture from early life. Possesses BFA in the field of Graphic Design from the School of Fine Arts and Desing of Puerto Rico, and an MFA degree in Communication & Research from the University of Puerto Rico. Vast experience as a creative writer, visual artist, and illustrator.",
+    "skills":{
+      "header": "Skills",
+      "value" : [
+        {"value" : "Graphic Design", "badge": 90},
+        {"value": "Illustration", "badge": 95},
+        {"value": "2D Animation", "badge": 80},
+        {"value": "Creative writing", "badge": 85},
+        {"value": "Research", "badge": 95},
+        {"value": "Video editing", "badge": 75},
+        {"value": "Spanish", "badge": 100},
+        {"value": "Storyboarding", "badge": 80},
+        {"value": "Scriptwriting", "badge": 85}]
+    }
+  },
+  "experience" : {
+    "list":[
+      {
+        "header": "Comic artist & illustrator",
+        "subheader": "Fiverr – San Juan, PR",
+        "period": ["2017 to present"],
+        "description": "Freelance digital graphic designer, illustrator and comic artist at Fiverr. The job consists on creating illustrations on request by costumers. Each request may vary from comic page layouts, digital drawing and coloring, info-graphic and digital illustrations for books. I design and develop each project as requested by the client’s specifications, and delivering them on time."
+      },
+      {
+        "header": "2D Animator and Graphic Designer",
+        "subheader": "Require Technology - Guaynabo, PR",
+        "period": ["October 2019 to February 2020","March 2020 to Present"],
+        "description": "I am responsible for the creation and developing of conceptual 2D animations, and motion graphic explainer videos. Each educational video is expected on a weekly basis, to be incorporated on Genial Skills, an educational interactive platform. Other task I am responsible for consist of making graphic designing, info-graphics and data entry."
+      },
+      {
+        "header": "Graphic Art Teacher",
+        "subheader": "Liga de Arte de San Juan - San Juan, PR",
+        "period": ["June 2018 to July 2019"],
+        "description": "I worked teaching children from the age 11 to 15 to use their ability to create art pieces using wood cut print techniques during the summer course from June 4 to June 28. Other responsibilities consisted on keeping track of tools and materials, verifying and cleaning the work area, and helping children to learn how to use a print press and make ink monotypes and other manual printing techniques."
+      },
+      {
+        "header": "Art Instructor",
+        "subheader": "Trigo Art Studio - San Juan, PR",
+        "period": ["February 2019 to June 2019"],
+        "description": "Trigo Art Studio, then located at Calle Loiza, San Juan PR, offered a space for art instructions to anyone who listed online. I was a live painter and art instructor on Trigo Art Studio Wine and Paint activities for a few months. The job consisted on instructing and guiding participants step by step onto creating beautiful acrylic painting. Skills applied in this job: public speaking, teaching, traditional art techniques."
+      },
+      {
+        "header": "2d Animator",
+        "subheader": "Borinquen The Show - San Juan, PR",
+        "period": ["October 2015 to January 2016"],
+        "description": "Responsible for the development of hand drawn animation and digital special effect to be projected on the background stage during the presentation of the play: Boriquen The Show in the Tapia Theater in San Juan."
+      }
+    ]
+  },
+  "contact" : {
+    "description" : "I am willing to relocate, or to work online",
+    "contactInformation": [
+      {"header" : "Phone", "value" : "+1 (787) 377-0707", "isLink": false},
+      {"header" : "Email", "value" : "noedixon@gmail.com", "isLink": false},
+      {"header" : "LinkedIn", "value" : "noelia-dickson", "isLink": true, "link": "https://www.linkedin.com/in/noelia-dickson-5b177691/"},
+      {"header" : "Location", "value" : "Puerto Rico", "isLink": false}
+    ]
+  }
+}
+}

@@ -4,7 +4,13 @@ import router from './router'
 import store from './store'
 import vuetify from './plugins/vuetify';
 import wb from "./registerServiceWorker";
+import PerfectScrollbar from 'vue2-perfect-scrollbar'
+import 'vue2-perfect-scrollbar/dist/vue2-perfect-scrollbar.css'
+
+
 Vue.prototype.$workbox = wb;
+
+Vue.use(PerfectScrollbar)
 
 Vue.config.productionTip = false
 

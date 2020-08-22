@@ -4,8 +4,11 @@
             <v-col cols="6" class="header">
                 {{ item.header }}:
             </v-col>
-            <v-col cols="6" class="value">
+            <v-col cols="6" class="value" v-if="!item.isLink">
                 {{ item.value }}
+            </v-col>
+            <v-col cols="6" class="value" v-else>
+                <a :href="item.link">{{ item.value }}</a>
             </v-col>
         </v-row>
         <v-row>
@@ -46,6 +49,9 @@ export default {
         font-family: 'Alata', sans-serif;
         font-size: 1rem;
         color:#C83737;
+    }
+    .value a{
+        text-decoration: none;
     }
     @media only screen and (max-width: 660px){
         .header, .value{

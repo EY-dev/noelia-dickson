@@ -1,0 +1,84 @@
+{
+  "dictionary": {
+    "menu": {
+      "home" : "home",
+      "about" : "sobre",
+      "illustrations" : "la ilustración",
+      "experience": "la experiencia",
+      "contact" : "contacto"
+    },
+    "bottomMenu" : {
+      "animation" : "animación",
+      "pictures": "images",
+      "books": "escritura",
+      "copyright": ["made with", "by", "for a better web"]
+    },
+    "home":{
+      "subheader":"Diseñador gráfico, ilustrador y animador 2d",
+      "buttons": {
+        "button1": "la ilustración",
+        "button2": "la experiencia"
+      }
+    },
+    "about": {
+      "description": "Nacida y criada en la ciudad de San Juan de Puerto Rico. Mis interés en las artes visuales, la animación y la cultura cinematografica han estado presentes desde temprana edad. He adquirido un grado de bachillerato en de la Escuela de Artes Plásticas y Diseño de Puerto Rico, y un grado de maestría en comunicaciones de la Universidad de Puerto Rico, recinto de Río Piedras. Cuento con vasta experiencia en el campo de la escritura creativa, las artes visuales y la ilustración.",
+      "skills":{
+        "header": "Habilidades",
+        "value" : [
+          {"value" : "Diseño gráfico", "badge": 90},
+          {"value": "Ilustracion", "badge": 95},
+          {"value": "Animación 2D", "badge": 80},
+          {"value": "Escritura creativa", "badge": 85},
+          {"value": "Investigación", "badge": 95},
+          {"value": "Edición de video", "badge": 75},
+          {"value": "Inglés", "badge": 100},
+          {"value": "Storyboarding", "badge": 80},
+          {"value": "Escritura de guión", "badge": 85}
+        ]
+      }
+    },
+    "experience" : {
+      "list":[
+        {
+          "header": "Artista de comics e ilustradora",
+          "subheader": "Fiverr – San Juan, PR",
+          "period": ["2017 hasta el presente"],
+          "description": "Diseñadora gráfica e ilustradora  y artista de comic a dedicación propia. El trabajo consiste en crear y desarrollar arte a petición de clientes individuales. Cada pedido varia de categorías ente diseño de paginas de comic, dibujo y pintura digital, infografías e ilustraciones para libros. Se desarrolla cada proyecto con las especificaciones del cliente y se entrega para la fecha correspondiente."
+        },
+        {
+          "header": "Animadora 2D y diseñadora gráfica",
+          "subheader": "Require Technology - Guaynabo, PR",
+          "period": ["Octubre 2019 hasta febrero 2020","Marzo 2020 hasta el presente"],
+          "description": "Responsable de la creación y el desarrollo del videos de animación 2D, gráficos en movimiento, y videos explicativos. Cada video educativo se desarrolla semanalmente para ser incorporado en la plataforma interactiva de Geniall Skills. Otras responsabilidades consisten en crear diseño gráfico y entrar datos."
+        },
+        {
+          "header": "Maestra de grabado ",
+          "subheader": "Require Technology - Guaynabo, PR",
+          "period": ["Junio 2018 a Julio 2019"],
+          "description": "Trabajé como maestra de arte para niños con edades de 9 a 15 años. Se les enseñaba como usar sus habilidades para crear piezas de arte usando la técnica del grabado. Esto fue durante el campamento de verano de junio-julio 2018 y junio-julio 2019. Entre mis responsabilidades estaba ocuparme de los materiales, mantener en buen estado el área de trabajo y ayudar a los niños a aprender a usar la prensa, hacer impresiones de tinta, monotipos y otras técnicas de impresión manuales."
+        },
+        {
+          "header": "Instructora de Arte",
+          "subheader": "Trigo Art Studio - San Juan, PR",
+          "period": ["Febrero 2019 a Junio 2019"],
+          "description": "Trigo Art Studio, entonces localizado en la Calle Loiza, San Juan PR, ofrecía un espacio para llevar a cabo clases de arte a cualquiera que se inscribiera previamente por internet. Como instructor, ofrecía clases de pintura en vivo en actividades de “wine and paint”, donde los participantes pintaban una pintura de manera simultanea siguiendo mis las instrucciones. Las habilidades implementadas durante este trabajo fueron: hablar en público, impartir instrucciones, enseñarle a los participantes con técnicas de arte tradicionales."
+        },
+        {
+          "header": "Animadora 2d",
+          "subheader": "Borinquen The Show - San Juan, PR",
+          "period": ["Octubre 2015 a enero 2016"],
+          "description": "Encargada del desarrollo de la animación dibujada a mano y de manera digital que fue proyectada durante la función de Borinquen: The Show. Los efectos especiales de fondo durante la obra fueron presentados en el Teatro Tapia en San Juan, Puerto Rico."
+        }
+      ]
+    },
+    "contact" : {
+      "description" : "I am willing to relocate, or to work online",
+      "contactInformation": [
+        {"header" : "Phone", "value" : "+1 (787) 377-0707", "isLink": false},
+        {"header" : "Email", "value" : "noedixon@gmail.com", "isLink": false},
+        {"header" : "LinkedIn", "value" : "noelia-dickson", "isLink": true, "link": "https://www.linkedin.com/in/noelia-dickson-5b177691/"},
+        {"header" : "Location", "value" : "Puerto Rico", "isLink": false}
+      ]
+    }
+  }
+}
