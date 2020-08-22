@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="nd-logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg1141"
+   version="1.1"
+   viewBox="0 0 512 512.00003"
+   height="512"
+   width="512"
+   inkscape:export-filename="D:\websites\noelia-dickson\public\img\icons\nd-logo512x512.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs1135" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="161"
+     inkscape:window-height="1041"
+     inkscape:window-width="1513"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="441.57123"
+     inkscape:cx="110.52915"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="512in" />
+  <metadata
+     id="metadata1138">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-27.194796,-18.293973)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Слой 1">
+    <g
+       id="g838"
+       transform="matrix(0.77552166,0,0,0.77552166,191.83815,175.47293)">
+      <path
+         id="path106"
+         d="M 347.39776,169.60368 C 332.35204,35.737731 149.67859,76.349229 149.67859,76.349229 l 3.51213,222.820381 c 0,0 209.25273,4.30007 194.20704,-129.56593 z m -143.54148,53.22937 -4.81291,-94.4707 c 0,0 86.24191,-14.63743 95.28237,42.30546 9.04045,56.94302 -90.46946,52.16524 -90.46946,52.16524 z"
+         class="st8"
+         style="fill:#1a1a1a;stroke-width:2.16985" />
+      <path
+         id="path108"
+         d="M 354.92065,140.13322 C 339.87485,6.267214 157.20139,46.878755 157.20139,46.878755 l 3.51211,222.820385 c 0,0 209.25287,4.32174 194.20715,-129.56592 z m -143.54159,53.25103 -4.81289,-94.470678 c 0,0 86.24202,-14.637456 95.28248,42.305458 9.0187,56.94302 -90.46959,52.16522 -90.46959,52.16522 z"
+         class="st9"
+         style="fill:#f7931e;stroke-width:2.16985" />
+      <polygon
+         id="polygon110"
+         points="399.29,489.88 362.59,431.76 332,431.76 332,548 362.59,548 362.59,489.88 400.82,548 429.88,548 429.88,398.12 399.29,398.12 "
+         class="st8"
+         style="fill:#1a1a1a"
+         transform="matrix(2.1679736,0,0,2.171739,-814.07245,-917.11275)" />
+      <polygon
+         id="polygon112"
+         points="404.41,474.65 367.71,416.53 337.12,416.53 337.12,532.76 367.71,532.76 367.71,474.65 405.94,532.76 435,532.76 435,382.88 404.41,382.88 "
+         class="st11"
+         style="fill:#29abe2"
+         transform="matrix(2.1679736,0,0,2.171739,-814.07245,-917.11275)" />
+    </g>
+  </g>
+</svg>
