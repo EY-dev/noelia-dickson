@@ -1,6 +1,6 @@
 <template>
     <v-bottom-navigation dark app  shift>
-        <v-btn>
+<!--        <v-btn>
             <span>{{ $store.getters.getDictionary.bottomMenu.animation }}</span>
             <v-icon>mdi-television-play</v-icon>
         </v-btn>
@@ -11,7 +11,7 @@
         <v-btn>
             <span>{{ $store.getters.getDictionary.bottomMenu.pictures }}</span>
             <v-icon>mdi-image</v-icon>
-        </v-btn>
+        </v-btn>-->
         <v-switch
             v-model="isEnglish"
             color="#f7931e"

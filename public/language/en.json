@@ -15,24 +15,24 @@
   "home":{
     "subheader":"Graphic designer, Illustrator and 2d Animator",
     "buttons": {
-      "button1": "Pictures",
+      "button1": "Illustrations",
       "button2": "Experience"
     }
   },
   "about": {
-    "description": "Born and raised in San Juan, Puerto Rico. Interested in visual arts, animation, and film culture from early life. Possesses BFA in the field of Graphic Design from the School of Fine Arts and Desing of Puerto Rico, and an MFA degree in Communication & Research from the University of Puerto Rico. Vast experience as a creative writer, visual artist, and illustrator.",
+    "description": "Born and raised in San Juan, Puerto Rico. Interested in visual arts, animation, and film culture from an early life. Possesses BFA in the field of Graphic Design from the School of Fine Arts and Desing of Puerto Rico, and an MFA degree in Communication & Research from the University of Puerto Rico. Vast experience as a creative writer, visual artist, and illustrator.",
     "skills":{
       "header": "Skills",
       "value" : [
-        {"value" : "Graphic Design", "badge": 90},
+        {"value": "Graphic Design", "badge": 90},
         {"value": "Illustration", "badge": 95},
         {"value": "2D Animation", "badge": 80},
         {"value": "Creative writing", "badge": 85},
         {"value": "Research", "badge": 95},
-        {"value": "Video editing", "badge": 75},
+        {"value": "Video editing", "badge": 85},
         {"value": "Spanish", "badge": 100},
-        {"value": "Storyboarding", "badge": 80},
-        {"value": "Scriptwriting", "badge": 85}]
+        {"value": "Storyboarding", "badge": 20},
+        {"value": "Scriptwriting", "badge": 45}]
     }
   },
   "experience" : {
@@ -69,6 +69,9 @@
       }
     ]
   },
+  "illustrations": {
+    "subheader": ["illustrations", "animations"]
+  },
   "contact" : {
     "description" : "I am willing to relocate, or to work online",
     "contactInformation": [
@@ -76,7 +79,15 @@
       {"header" : "Email", "value" : "noedixon@gmail.com", "isLink": false},
       {"header" : "LinkedIn", "value" : "noelia-dickson", "isLink": true, "link": "https://www.linkedin.com/in/noelia-dickson-5b177691/"},
       {"header" : "Location", "value" : "Puerto Rico", "isLink": false}
-    ]
+    ],
+    "emailForm": {
+      "header": "Send message",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "message": "Message",
+      "sendButton": "send"
+    }
   }
 }
 }

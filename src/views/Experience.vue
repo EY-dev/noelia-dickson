@@ -41,6 +41,7 @@ export default {
 .ps {
     height: 500px;
 }
+
 @media only screen and (max-width: 660px){
     .list{
         width: 100%;

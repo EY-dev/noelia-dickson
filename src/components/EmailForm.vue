@@ -1,37 +1,36 @@
 <template>
     <div class="form-box">
         <div class="email-form">
-            <h2>Send message</h2>
+            <h2> {{ $store.getters.getDictionary.contact.emailForm.header }} </h2>
             <v-form @submit.prevent="sendIt" ref="emailForm" class="hide" id="form">
                 <v-text-field dark
                               v-model="form.fName"
                               :counter="10"
                               :rules="nameRules"
-                              label="First name"
+                              :label="$store.getters.getDictionary.contact.emailForm.firstName"
                               required
                 ></v-text-field>
                 <v-text-field dark
                               v-model="form.lName"
                               :counter="10"
                               :rules="nameRules"
-                              label="Last name"
+                              :label="$store.getters.getDictionary.contact.emailForm.lastName"
                               required
                 ></v-text-field>
                 <v-text-field dark
                               v-model="form.email"
                               :rules="emailRules"
-                              label="E-mail"
+                              :label="$store.getters.getDictionary.contact.emailForm.email"
                               required
                 ></v-text-field>
                 <v-textarea dark
                             :rules="messageRules"
                             v-model="form.message"
-                            label="Message"
+                            :label="$store.getters.getDictionary.contact.emailForm.message"
                             required
                 ></v-textarea>
-                <v-btn class="ma-2" tile outlined color="#C83737" @click="sendIt">
-                    <v-icon left>forward</v-icon>
-                    Send
+                <v-btn class="ma-2" dark rounded color="#C83737" @click="sendIt">
+                    {{ $store.getters.getDictionary.contact.emailForm.sendButton }}
                 </v-btn>
             </v-form>
             <v-dialog v-model="dialog" width="50vh">

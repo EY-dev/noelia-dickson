@@ -1,23 +1,23 @@
 {
   "dictionary": {
     "menu": {
-      "home" : "home",
+      "home" : "Ínicio",
       "about" : "sobre",
-      "illustrations" : "la ilustración",
-      "experience": "la experiencia",
+      "illustrations" : "ilustración",
+      "experience": "experiencia",
       "contact" : "contacto"
     },
     "bottomMenu" : {
       "animation" : "animación",
-      "pictures": "images",
+      "pictures": "imágenes",
       "books": "escritura",
       "copyright": ["made with", "by", "for a better web"]
     },
     "home":{
-      "subheader":"Diseñador gráfico, ilustrador y animador 2d",
+      "subheader":"Diseñadora gráfico, ilustrador y animador 2d",
       "buttons": {
-        "button1": "la ilustración",
-        "button2": "la experiencia"
+        "button1": "ilustración",
+        "button2": "experiencia"
       }
     },
     "about": {
@@ -26,21 +26,21 @@
         "header": "Habilidades",
         "value" : [
           {"value" : "Diseño gráfico", "badge": 90},
-          {"value": "Ilustracion", "badge": 95},
+          {"value": "Ilustración", "badge": 95},
           {"value": "Animación 2D", "badge": 80},
           {"value": "Escritura creativa", "badge": 85},
           {"value": "Investigación", "badge": 95},
           {"value": "Edición de video", "badge": 75},
           {"value": "Inglés", "badge": 100},
-          {"value": "Storyboarding", "badge": 80},
-          {"value": "Escritura de guión", "badge": 85}
+          {"value": "Storyboarding", "badge": 20},
+          {"value": "Escritura de guión", "badge": 45}
         ]
       }
     },
     "experience" : {
       "list":[
         {
-          "header": "Artista de comics e ilustradora",
+          "header": "Artista de cómics e ilustradora",
           "subheader": "Fiverr – San Juan, PR",
           "period": ["2017 hasta el presente"],
           "description": "Diseñadora gráfica e ilustradora  y artista de comic a dedicación propia. El trabajo consiste en crear y desarrollar arte a petición de clientes individuales. Cada pedido varia de categorías ente diseño de paginas de comic, dibujo y pintura digital, infografías e ilustraciones para libros. Se desarrolla cada proyecto con las especificaciones del cliente y se entrega para la fecha correspondiente."
@@ -71,14 +71,25 @@
         }
       ]
     },
+    "illustrations": {
+      "subheader": ["ilustraciones", "animaciones"]
+    },
     "contact" : {
-      "description" : "I am willing to relocate, or to work online",
+      "description" : "Dispuesta a reubicarme, o trabajae en linea",
       "contactInformation": [
-        {"header" : "Phone", "value" : "+1 (787) 377-0707", "isLink": false},
-        {"header" : "Email", "value" : "noedixon@gmail.com", "isLink": false},
+        {"header" : "Teléfono", "value" : "+1 (787) 377-0707", "isLink": false},
+        {"header" : "Correo electrónico", "value" : "noedixon@gmail.com", "isLink": false},
         {"header" : "LinkedIn", "value" : "noelia-dickson", "isLink": true, "link": "https://www.linkedin.com/in/noelia-dickson-5b177691/"},
         {"header" : "Location", "value" : "Puerto Rico", "isLink": false}
-      ]
+      ],
+      "emailForm": {
+        "header": "Enviar mensaje",
+        "firstName": "Nombre",
+        "lastName": "Apellidos",
+        "email": "Correo electrónico",
+        "message": "Mensaje",
+        "sendButton": "Enviar"
+      }
     }
   }
 }
