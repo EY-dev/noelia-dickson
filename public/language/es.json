@@ -80,7 +80,7 @@
         {"header" : "Teléfono", "value" : "+1 (787) 377-0707", "isLink": false},
         {"header" : "Correo electrónico", "value" : "noedixon@gmail.com", "isLink": false},
         {"header" : "LinkedIn", "value" : "noelia-dickson", "isLink": true, "link": "https://www.linkedin.com/in/noelia-dickson-5b177691/"},
-        {"header" : "Location", "value" : "Puerto Rico", "isLink": false}
+        {"header" : "Location", "value" : "3992 Etta Dr NE<br> Salem, OR 97305", "isLink": false}
       ],
       "emailForm": {
         "header": "Enviar mensaje",

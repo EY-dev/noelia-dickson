@@ -4,7 +4,7 @@
             <v-col cols="6" class="header">
                 {{ item.header }}:
             </v-col>
-            <v-col cols="6" class="value" v-if="!item.isLink">
+            <v-col cols="6" class="value" v-if="!item.isLink" v-html="item.value">
                 {{ item.value }}
             </v-col>
             <v-col cols="6" class="value" v-else>
@@ -56,6 +56,9 @@ export default {
     @media only screen and (max-width: 660px){
         .header, .value{
             font-size: 1rem;
+        }
+        .header{
+            min-width: 150px;
         }
         .description{
             font-size:0.8rem;

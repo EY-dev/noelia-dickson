@@ -91,7 +91,7 @@ export default {
             'perspective.jpg', 'Cover.jpg', 'pp1.jpg' , 'joeChef-Revisited.jpg', 'MRACERmotorart.jpg', 'Leira.jpg',
         ],
         videos : [
-            'vowelfixed.mp4', 'video-1076.mp4', 'moral-of-the-story.ogv'
+            'animacion-pinocchio.mp4', 'vowelfixed.mp4', 'video-1076.mp4', 'moral-of-the-story.ogv'
         ],
         overlay:false,
         progress: true,

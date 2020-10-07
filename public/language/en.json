@@ -29,7 +29,7 @@
         {"value": "2D Animation", "badge": 80},
         {"value": "Creative writing", "badge": 85},
         {"value": "Research", "badge": 95},
-        {"value": "Video editing", "badge": 85},
+        {"value": "Video editing", "badge": 75},
         {"value": "Spanish", "badge": 100},
         {"value": "Storyboarding", "badge": 20},
         {"value": "Scriptwriting", "badge": 45}]
@@ -78,7 +78,7 @@
       {"header" : "Phone", "value" : "+1 (787) 377-0707", "isLink": false},
       {"header" : "Email", "value" : "noedixon@gmail.com", "isLink": false},
       {"header" : "LinkedIn", "value" : "noelia-dickson", "isLink": true, "link": "https://www.linkedin.com/in/noelia-dickson-5b177691/"},
-      {"header" : "Location", "value" : "Puerto Rico", "isLink": false}
+      {"header" : "Location", "value" : "3992 Etta Dr NE<br> Salem, OR 97305", "isLink": false}
     ],
     "emailForm": {
       "header": "Send message",
